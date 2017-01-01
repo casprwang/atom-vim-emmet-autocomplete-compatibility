@@ -1,0 +1,18 @@
+{
+  "name": "vim-plus-autocomplete-emmet-compatibility",
+  "main": "./lib/vim-autocomplete-emmet-compatibility",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "vim-autocomplete-emmet-compatibility:toggle"
+  },
+  "repository": "https://github.com/atom/vim-autocomplete-emmet-compatibility",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
